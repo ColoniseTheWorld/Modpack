@@ -1,0 +1,365 @@
+{
+    "images":
+    {
+		"black":
+        {
+            "image" : "modpack:mainmenu/bgsm.png",
+            "posX" : 100,
+            "posY" : -80,
+            "width" : 100,
+            "height" : 1500,
+            "alignment" : "top_left"
+        },
+        "title":
+        {
+            "image" : "modpack:mainmenu/logo.png",
+            "posX" : -250,
+            "posY" : -100,
+            "width" : 200,
+            "height" : 200,
+            "alignment" : "right_center"
+        }
+    },
+   
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+			"normalTextColor" : 16119285,
+			"hoverTextColor" : 40937,
+			"texture" : "modpack:mainmenu/btn.png",
+            "posX" : 100,
+            "posY" : -80,
+            "width" : 100,
+            "height" : 10,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+       
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",			
+			"normalTextColor" : 16119285,
+			"hoverTextColor" : 54090,
+			"texture" : "modpack:mainmenu/btn.png",
+            "posX" : 100,
+            "posY" : -66,
+            "width" : 100,
+            "height" : 10,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+       
+        "mods":
+        {
+            "text" : "Mod List",
+			"normalTextColor" : 16119285,
+			"hoverTextColor" : 12732672,
+			"texture" : "modpack:mainmenu/btn.png",
+            "posX" : 100,
+            "posY" : 42,
+            "width" : 100,
+            "height" : 10,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+           
+        "options":
+        {
+            "text" : "Options",
+			"normalTextColor" : 16119285,
+			"hoverTextColor" : 12732672,
+			"texture" : "modpack:mainmenu/btn.png",
+            "posX" : 100,
+            "posY" : 30,
+            "width" : 100,
+            "height" : 10,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+       
+        "quit":
+        {
+            "text" : "Quit",
+			"normalTextColor" : 8847360,
+			"hoverTextColor" : 16711680,
+			"texture" : "modpack:mainmenu/btn.png",
+            "posX" : 135,
+            "posY" : 90,
+            "width" : 30,
+            "height" : 15,
+			"alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+       
+        "language":
+        {
+            "text" : "",
+            "tooltip": "Language Settings",
+			//"normalTextColor" : 16119285,
+			//"hoverTextColor" : 3125670,
+            "posX" : 145,
+            "posY" : 107,
+            "width" : 10,
+            "height" : 10,
+			"imageWidth": "40",
+			"imageHeight": "40",
+            "texture" : "modpack:mainmenu/lange.png",
+            //"textOffsetX" : 30,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+               
+        "Github":
+        {
+            "text" : "Issue Tracker",
+            "hoverText" : "Github",
+            "tooltip" : "Found a bug? Let us know.",
+			"normalTextColor" : 16119285,
+			"hoverTextColor" : 12732672,
+			"texture" : "modpack:mainmenu/btn.png",
+            "posX" : 100,
+            "posY" : 4,
+            "width" : 100,
+            "height" : 10,
+            "alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/ColoniseTheWorld/Modpack/issues"
+            }
+        },
+ 
+        "Changelogs":
+        {
+            "text" : "Changelog",
+            "tooltip" : "This isn't right? We have a change!",
+			"normalTextColor" : 16119285,
+			"hoverTextColor" : 12732672,
+			"texture" : "modpack:mainmenu/btn.png",
+            "posX" : 100,
+            "posY" : 15,
+            "width" : 100,
+            "height" : 10,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://nexing.ro/colonisetheworld"
+            }  
+        },
+        
+        "OfficalSv":
+        {
+            "text" : "Official Server",
+            "tooltip" : "More people more fun! Let's have fun together!",
+			"normalTextColor" : 16119285,
+			"hoverTextColor" : 16751616,
+			"texture" : "modpack:mainmenu/btn.png",
+            "posX" : 101,
+            "posY" : -27,
+            "width" : 100,
+            "height" : 10,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "connectToServer",
+                "ip" : "detek.ga:25565"
+            }
+        },
+ 
+        "Forum":
+        {
+            "text" : "Official Forum",
+            "tooltip" : "We want you! Join and talk with us!",
+			"normalTextColor" : 16119285,
+			"hoverTextColor" : 16751616,
+			"texture" : "modpack:mainmenu/btn.png",
+            "posX" : 100,
+            "posY" : -39,
+            "width" : 100,
+            "height" : 10,
+			"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openLink",
+                "link" : "https://nexing.ro"
+            }  
+        }
+    },
+   
+    "labels":
+    {
+        /*"mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -160,
+            "posY" : -10,
+            "fontSize": .8,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        "menu by":{
+            "text" : "Menu By: DeTeK",
+            "posX" : -72,
+            "posY" : -20,
+            "fontSize": .9,
+            "color": -1,
+            "hoverColor": -1,
+            "alignment" : "bottom_right"
+        },
+        "forge":{
+            "text" : "Forge : #forgeversion#",
+			"color" : 9079434,
+            "hoverColor": 9079434,
+            "fontSize": .7,
+            "posX" : 115,
+            "posY" : 125,
+            "width" : 50,
+            "height" : 20,
+            "alignment" : "left_center"
+        },*/
+        "version":{
+            "text" : "Version : 0.5.1 BETA",
+			"color" : 9079434,
+            "hoverColor": 9079434,
+            "fontSize": .7,
+            "posX" : 124,
+            "posY" : 133,
+            "width" : 50,
+            "height" : 20,
+            "alignment" : "left_center"
+        },
+        "lineaundemods": {
+            "text": "___________",
+			"color" : 9079434,
+            "hoverColor": 9079434,
+            "fontSize": .7,
+            "posX" : 126,
+            "posY" : 49,
+            "width" : 50,
+            "height" : 20,
+            "alignment": "left_center"
+        },
+        "lineaundemods2": {
+            "text": "___________",
+			"color" : 9079434,
+            "hoverColor": 9079434,
+            "fontSize": .7,
+            "posX" : 126,
+            "posY" : 22,
+            "width" : 50,
+            "height" : 20,
+            "alignment": "left_center"
+        },
+        "lineaundemods3": {
+            "text": "__________________",
+			"color" : 9079434,
+            "hoverColor": 9079434,
+            "fontSize": .7,
+            "posX" : 112,
+            "posY" : -3,
+            "width" : 50,
+            "height" : 20,
+            "alignment": "left_center"
+        },
+        "lineaundemods4": {
+            "text": "___________________",
+			"color" : 9079434,
+            "hoverColor": 9079434,
+            "fontSize": .7,
+            "posX" : 111,
+            "posY" : -20,
+            "width" : 50,
+            "height" : 20,
+            "alignment": "left_center"
+        },
+        "lineaundemods5": {
+            "text": "_________________",
+			"color" : 9079434,
+            "hoverColor": 9079434,
+            "fontSize": .7,
+            "posX" : 114,
+            "posY" : -47,
+            "width" : 50,
+            "height" : 20,
+            "alignment": "left_center"
+        },
+        "lineaundemods6": {
+            "text": "______________________",
+			"color" : 16751616,
+            "hoverColor": 16751616,
+            "fontSize": .7,
+            "posX" : 104,
+            "posY" : -108,
+            "width" : 50,
+            "height" : 20,
+            "alignment": "left_center"
+        },
+        "modsloaded": {
+            "text": "Mods (#modsloaded#/#modsactive#)",
+			"color" : 9079434,
+            "hoverColor": 9079434,
+            "fontSize": .7,
+            "posX" : 126,
+            "posY" : 57,
+            "width" : 50,
+            "height" : 20,
+            "alignment": "left_center"
+        },
+        "Welcome": {
+            "text": "Colonize & Conquest The World",
+			"color" : 16751616,
+            "hoverColor": 16751616,
+            "fontSize": .6,
+            "posX" : 104,
+            "posY" : -110,
+            "width" : 5,
+            "height" : 20,
+            "alignment": "left_center"
+        }
+    },
+    "other":
+    {
+        /*"splash-text":
+        {
+            "posX" : 110,
+            "posY" : 90,
+            "color" : -256,
+            "alignment" : "top_center"
+        },*/
+        
+        "panorama":
+        {
+            "images" : "modpack:panorama/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}

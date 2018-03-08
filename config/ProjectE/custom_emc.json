@@ -1,0 +1,160 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:coal|1",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:ingots|2",
+      "emc": 0
+    },
+    {
+      "item": "tconstruct:ingots|1",
+      "emc": 0
+    },
+    {
+      "item": "tconstruct:ingots|0",
+      "emc": 0
+    },
+    {
+      "item": "thermalfoundation:material|2050",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|2048",
+      "emc": 1536
+    },
+    {
+      "item": "thermalfoundation:material|2052",
+      "emc": 1536
+    },
+    {
+      "item": "mysticalagriculture:crafting|0",
+      "emc": 32
+    },
+    {
+      "item": "mysticalagriculture:crafting|1",
+      "emc": 64
+    },
+    {
+      "item": "mysticalagriculture:crafting|2",
+      "emc": 128
+    },
+    {
+      "item": "mysticalagriculture:crafting|3",
+      "emc": 256
+    },
+    {
+      "item": "mysticalagriculture:crafting|4",
+      "emc": 512
+    },
+    {
+      "item": "mysticalagriculture:crafting|5",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:wheat_seeds|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:wool|1",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|2",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|3",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|4",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|5",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|6",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|7",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|8",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|9",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|10",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|11",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|12",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|13",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|14",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:wool|15",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:dye|5",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dye|6",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dye|7",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dye|8",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dye|9",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dye|10",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dye|12",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dye|13",
+      "emc": 16
+    },
+    {
+      "item": "mysticalagriculture:crafting|7",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:salt|0",
+      "emc": 4
+    }
+  ]
+}

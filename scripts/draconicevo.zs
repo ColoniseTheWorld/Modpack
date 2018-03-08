@@ -1,0 +1,25 @@
+//Draconic Evolution
+
+///////////////////////////////////////
+/////// Import Zone         ///////////
+///////////////////////////////////////
+
+import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
+
+///////////////////////////////////////
+/////// Variable Zone       ///////////
+///////////////////////////////////////
+
+///////////////////////////////////////
+/////// Comment Zone        ///////////
+///////////////////////////////////////
+
+///////////////////////////////////////
+/////// Removed Items       ///////////
+///////////////////////////////////////
+
+recipes.addShaped(<draconicevolution:draconium_dust>,
+ [[<minecraft:emerald_block>, <minecraft:emerald_block>, <minecraft:emerald_block>],
+ [<minecraft:emerald_block>, <mekanism:teleportationcore>, <minecraft:emerald_block>],
+ [<minecraft:emerald_block>, <minecraft:emerald_block>, <minecraft:emerald_block>]]);
