@@ -24,7 +24,7 @@
     "oremeta": 0,
     "source": "minecraft:stone",
     "srcmeta": 0,
-    "veins": 12,
+    "veins": 4,
     "size": 8,
     "miny": 10,
     "maxy": 246
@@ -44,18 +44,18 @@
     "oremeta": 0,
     "source": "minecraft:stone",
     "srcmeta": 0,
-    "veins": 8,
+    "veins": 4,
     "size": 8,
     "miny": 10,
-    "maxy": 246
+    "maxy": 250
   },
   {
     "ore": "minecraft:diamond_ore",
     "oremeta": 0,
     "source": "minecraft:stone",
     "srcmeta": 0,
-    "veins": 4,
-    "size": 8,
+    "veins": 2,
+    "size": 4,
     "miny": 10,
     "maxy": 246
   },
@@ -64,8 +64,68 @@
     "oremeta": 0,
     "source": "minecraft:stone",
     "srcmeta": 0,
-    "veins": 2,
+    "veins": 1,
+    "size": 1,
+    "miny": 10,
+    "maxy": 20
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 0,
+    "source": "thermalfoundation:ore",
+    "srcmeta": 0,
+    "veins": 16,
+    "size": 10,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 2,
+    "source": "thermalfoundation:ore",
+    "srcmeta": 0,
+    "veins": 12,
+    "size": 8,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 3,
+    "source": "thermalfoundation:ore",
+    "srcmeta": 0,
+    "veins": 4,
     "size": 4,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 4,
+    "source": "thermalfoundation:ore",
+    "srcmeta": 0,
+    "veins": 4,
+    "size": 4,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 5,
+    "source": "thermalfoundation:ore",
+    "srcmeta": 0,
+    "veins": 4,
+    "size": 2,
+    "miny": 10,
+    "maxy": 246
+  },
+  {
+    "ore": "thermalfoundation:ore",
+    "oremeta": 6,
+    "source": "thermalfoundation:ore",
+    "srcmeta": 0,
+    "veins": 2,
+    "size": 2,
     "miny": 10,
     "maxy": 246
   },

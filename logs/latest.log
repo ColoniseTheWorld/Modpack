@@ -1,54 +1,54 @@
-[18:21:37] [main/INFO]: Setting user: Fmohican
-[18:21:42] [main/INFO]: LWJGL Version: 2.9.4
-[18:21:57] [main/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Builder's Wands, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Bloodmoon, FMLFileResourcePack:Bookshelf, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chunk Edge Indicator, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:CoFH World, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:CoroUtil Library, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:CraftTweaker2, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:Cucumber, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:Elevator Mod, FMLFileResourcePack:EnderPay, FMLFileResourcePack:Foamflower, FMLFileResourcePack:Game Stages, FMLFileResourcePack:Global XP, FMLFileResourcePack:Gravestone Mod, FMLFileResourcePack:Waila, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Just Enough HarvestCraft, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JEI Integration, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineColonies, FMLFileResourcePack:Moar Tinkers, FMLFileResourcePack:Mod Tweaker, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:MTLib, FMLFileResourcePack:Mystical Agriculture, FMLFileResourcePack:OreExcavation, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:PlusTiC, FMLFileResourcePack:ProjectE, FMLFileResourcePack:RadixCore, FMLFileResourcePack:Random Things, FMLFileResourcePack:Redstone Arsenal, FMLFileResourcePack:Redstone Flux, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Simply Jetpacks 2, FMLFileResourcePack:The Spice of Life, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:The Beneath, FMLFileResourcePack:Thermal Cultivation, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Tinkers' Complement, FMLFileResourcePack:Tinkers Tool Leveling, FMLFileResourcePack:UniDict, FMLFileResourcePack:Vending, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:Waila Stages, FMLFileResourcePack:WanionLib, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:WirelessCharger, FMLFileResourcePack:WorldEdit, CustomResources, CustomOverridingResources
-[18:22:18] [main/WARN]: File immersiveengineering:sounds/revolver_fire_thump.ogg does not exist, cannot add it to event immersiveengineering:revolverfirethump
-[18:22:18] [main/WARN]: File minecolonies:sounds/mob/deliveryman/female/inhaleexhale1.ogg does not exist, cannot add it to event minecolonies:mob.deliveryman.female.noise
-[18:22:18] [main/WARN]: File minecolonies:sounds/mob/builder/female/whatisit.ogg does not exist, cannot add it to event minecolonies:mob.builder.female.interaction
-[18:22:18] [main/WARN]: Missing sound for event: minecolonies:mob.guard.archer.female.badhousing
-[18:22:18] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[18:22:18] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[18:22:18] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[18:22:18] [Thread-8/INFO]: OpenAL initialized.
-[18:22:19] [Sound Library Loader/INFO]: Sound engine started
-[18:22:32] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:32] [main/WARN]: Texture bibliocraft:textures/models/inkplate1.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:32] [main/WARN]: Texture bibliocraft:textures/models/inkplate0.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:32] [main/WARN]: Texture bibliocraft:textures/models/inkplate3.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:32] [main/WARN]: Texture bibliocraft:textures/models/inkplate2.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:32] [main/WARN]: Texture bibliocraft:textures/models/inkplate8.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:32] [main/WARN]: Texture bibliocraft:textures/models/inkplate5.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:32] [main/WARN]: Texture bibliocraft:textures/models/inkplate4.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:32] [main/WARN]: Texture bibliocraft:textures/models/inkplate7.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:32] [main/WARN]: Texture bibliocraft:textures/models/inkplate6.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:33] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:33] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:33] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:33] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:34] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:35] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:35] [main/WARN]: Texture minecolonies:textures/blocks/info/info_poster_wax.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:35] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:35] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:35] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:36] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:36] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:36] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:37] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:37] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:38] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:39] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:39] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:39] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:39] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:39] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:39] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:39] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:40] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
-[18:22:42] [main/INFO]: Created: 4096x2048 textures-atlas
-[18:23:19] [main/INFO]: Narrator library for x64 successfully loaded
-[18:23:47] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
-[18:23:47] [Server thread/INFO]: Generating keypair
-[18:23:53] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/pumpkin_pie
+[20:43:56] [main/INFO]: Setting user: Fmohican
+[20:44:00] [main/INFO]: LWJGL Version: 2.9.4
+[20:44:14] [main/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AppleCore, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Builder's Wands, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Bloodmoon, FMLFileResourcePack:Bookshelf, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chunk Edge Indicator, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:CoFH World, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:CoroUtil Library, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:CraftTweaker2, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:Cucumber, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:Elevator Mod, FMLFileResourcePack:EnderPay, FMLFileResourcePack:Foamflower, FMLFileResourcePack:Game Stages, FMLFileResourcePack:Global XP, FMLFileResourcePack:Gravestone Mod, FMLFileResourcePack:Waila, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Just Enough HarvestCraft, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JEI Integration, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineColonies, FMLFileResourcePack:Moar Tinkers, FMLFileResourcePack:Mod Tweaker, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:MTLib, FMLFileResourcePack:Mystical Agriculture, FMLFileResourcePack:OreExcavation, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:PlusTiC, FMLFileResourcePack:ProjectE, FMLFileResourcePack:RadixCore, FMLFileResourcePack:Random Things, FMLFileResourcePack:Redstone Arsenal, FMLFileResourcePack:Redstone Flux, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Simply Jetpacks 2, FMLFileResourcePack:The Spice of Life, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:The Beneath, FMLFileResourcePack:Thermal Cultivation, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Tinkers' Complement, FMLFileResourcePack:Tinkers Tool Leveling, FMLFileResourcePack:UniDict, FMLFileResourcePack:Vending, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:Waila Stages, FMLFileResourcePack:WanionLib, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:WirelessCharger, CustomResources, CustomOverridingResources
+[20:44:35] [main/WARN]: File immersiveengineering:sounds/revolver_fire_thump.ogg does not exist, cannot add it to event immersiveengineering:revolverfirethump
+[20:44:35] [main/WARN]: File minecolonies:sounds/mob/deliveryman/female/inhaleexhale1.ogg does not exist, cannot add it to event minecolonies:mob.deliveryman.female.noise
+[20:44:35] [main/WARN]: File minecolonies:sounds/mob/builder/female/whatisit.ogg does not exist, cannot add it to event minecolonies:mob.builder.female.interaction
+[20:44:35] [main/WARN]: Missing sound for event: minecolonies:mob.guard.archer.female.badhousing
+[20:44:35] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:44:35] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[20:44:35] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:44:35] [Thread-8/INFO]: OpenAL initialized.
+[20:44:35] [Sound Library Loader/INFO]: Sound engine started
+[20:44:50] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:50] [main/WARN]: Texture bibliocraft:textures/models/inkplate1.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:50] [main/WARN]: Texture bibliocraft:textures/models/inkplate0.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:50] [main/WARN]: Texture bibliocraft:textures/models/inkplate3.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:50] [main/WARN]: Texture bibliocraft:textures/models/inkplate2.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:50] [main/WARN]: Texture bibliocraft:textures/models/inkplate8.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:50] [main/WARN]: Texture bibliocraft:textures/models/inkplate5.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:50] [main/WARN]: Texture bibliocraft:textures/models/inkplate4.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:50] [main/WARN]: Texture bibliocraft:textures/models/inkplate7.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:50] [main/WARN]: Texture bibliocraft:textures/models/inkplate6.png with size 8x8 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:50] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:51] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:51] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:51] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:51] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:52] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:52] [main/WARN]: Texture minecolonies:textures/blocks/info/info_poster_wax.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:52] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:53] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:53] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:53] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:54] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:54] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:54] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:54] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:56] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:56] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:56] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:56] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:56] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:56] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:56] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:56] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:57] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:44:59] [main/INFO]: Created: 4096x2048 textures-atlas
+[20:45:33] [main/INFO]: Narrator library for x64 successfully loaded
+[20:46:45] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[20:46:45] [Server thread/INFO]: Generating keypair
+[20:46:51] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/pumpkin_pie
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:pumpkin_pie'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -72,7 +72,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:pumpkin_pie'
 	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_112]
-[18:23:53] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/mushroom_stew
+[20:46:51] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/mushroom_stew
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mushroom_stew'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -96,7 +96,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mushroom_stew'
 	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_112]
-[18:23:53] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/cookie
+[20:46:51] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/cookie
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:cookie'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -120,7 +120,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:cookie'
 	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_112]
-[18:23:53] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/bread
+[20:46:51] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/bread
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:bread'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -144,7 +144,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:bread'
 	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_112]
-[18:23:53] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/beetroot_soup
+[20:46:51] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/beetroot_soup
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:beetroot_soup'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -168,286 +168,70 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:beetroot_soup'
 	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_112]
-[18:23:54] [Server thread/INFO]: Loaded 556 advancements
-[18:23:55] [Server thread/INFO]: Preparing start region for level 0
-[18:23:57] [Server thread/INFO]: Preparing spawn area: 5%
-[18:23:58] [Server thread/INFO]: Preparing spawn area: 9%
-[18:23:59] [Server thread/INFO]: Preparing spawn area: 15%
-[18:24:00] [Server thread/INFO]: Preparing spawn area: 19%
-[18:24:01] [Server thread/INFO]: Preparing spawn area: 24%
-[18:24:02] [Server thread/INFO]: Preparing spawn area: 30%
-[18:24:03] [Server thread/INFO]: Preparing spawn area: 34%
-[18:24:04] [Server thread/INFO]: Preparing spawn area: 40%
-[18:24:05] [Server thread/INFO]: Preparing spawn area: 45%
-[18:24:06] [Server thread/INFO]: Preparing spawn area: 52%
-[18:24:07] [Server thread/INFO]: Preparing spawn area: 61%
-[18:24:08] [Server thread/INFO]: Preparing spawn area: 69%
-[18:24:09] [Server thread/INFO]: Preparing spawn area: 78%
-[18:24:10] [Server thread/INFO]: Preparing spawn area: 88%
-[18:24:11] [Server thread/INFO]: Preparing spawn area: 97%
-[18:24:15] [Server thread/INFO]: Fmohican[local:E:3fcaee29] logged in with entity id 611 at (-194.5, 64.0, 256.5)
-[18:24:15] [Server thread/INFO]: Fmohican joined the game
-[18:24:22] [main/INFO]: [CHAT] ERROR: mekansim.zs:109: Could not resolve <extrautils2 : cursedearth : 0>
-[18:24:22] [main/INFO]: [CHAT] ERROR: Required parameters missing for Mekanism Combiner Recipe.
-[18:24:22] [main/INFO]: [CHAT] WARNING: Overwritten Mekanism Crusher Recipe for <appliedenergistics2:material:4>
-[18:24:23] [main/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
-[18:24:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10261ms behind, skipping 205 tick(s)
-[18:24:24] [Server thread/INFO]: Saving and pausing game...
-[18:24:24] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[18:24:25] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[18:24:25] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[18:24:25] [Server thread/INFO]: Saving chunks for level 'New World'/The Beneath
-[18:24:25] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
-[18:24:25] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
-[18:25:58] [main/INFO]: Using default channel type
-[18:25:58] [main/INFO]: Started on 25565
-[18:25:58] [main/INFO]: [CHAT] Local game hosted on port 25565
-[18:26:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2386ms behind, skipping 47 tick(s)
-[18:26:17] [Server thread/INFO]: [Fmohican: Given [Beneath Teleporter] * 1 to Fmohican]
-[18:26:17] [main/INFO]: [CHAT] Given [Beneath Teleporter] * 1 to Fmohican
-[18:26:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5098ms behind, skipping 101 tick(s)
-[18:27:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19726ms behind, skipping 394 tick(s)
-[18:28:27] [Server thread/INFO]: [Fmohican: Given [Molecular Assembler] * 1 to Fmohican]
-[18:28:27] [main/INFO]: [CHAT] Given [Molecular Assembler] * 1 to Fmohican
-[18:28:30] [Server thread/INFO]: [Fmohican: Given [Crafting Co-Processing Unit] * 1 to Fmohican]
-[18:28:30] [main/INFO]: [CHAT] Given [Crafting Co-Processing Unit] * 1 to Fmohican
-[18:28:34] [Server thread/INFO]: Fmohican has made the advancement [Next Gen Crafting]
-[18:28:34] [Server thread/INFO]: [Fmohican: Given [64k Crafting Storage] * 1 to Fmohican]
-[18:28:34] [main/INFO]: [CHAT] Fmohican has made the advancement [Next Gen Crafting]
-[18:28:34] [main/INFO]: [CHAT] Given [64k Crafting Storage] * 1 to Fmohican
-[18:28:34] [main/INFO]: Loaded 6 advancements
-[18:28:35] [Server thread/INFO]: Fmohican has made the advancement [Networking Switchboard]
-[18:28:35] [Server thread/INFO]: [Fmohican: Given [ME Controller] * 1 to Fmohican]
-[18:28:35] [main/INFO]: [CHAT] Fmohican has made the advancement [Networking Switchboard]
-[18:28:35] [main/INFO]: [CHAT] Given [ME Controller] * 1 to Fmohican
-[18:28:35] [main/INFO]: Loaded 10 advancements
-[18:28:36] [Server thread/INFO]: [Fmohican: Given [ME Drive] * 1 to Fmohican]
-[18:28:36] [main/INFO]: [CHAT] Given [ME Drive] * 1 to Fmohican
-[18:28:48] [Server thread/INFO]: [Fmohican: Given [ME Dense Smart Cable - Black] * 1 to Fmohican]
-[18:28:48] [main/INFO]: [CHAT] Given [ME Dense Smart Cable - Black] * 1 to Fmohican
-[18:28:51] [Server thread/INFO]: [Fmohican: Given [Creative Energy Cell] * 1 to Fmohican]
-[18:28:51] [main/INFO]: [CHAT] Given [Creative Energy Cell] * 1 to Fmohican
-[18:28:58] [Server thread/INFO]: [Fmohican: Set own game mode to Creative Mode]
-[18:28:58] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
-[18:30:29] [Server thread/INFO]: Fmohican has made the advancement [Better Than Chests]
-[18:30:29] [main/INFO]: [CHAT] Fmohican has made the advancement [Better Than Chests]
-[18:30:29] [main/INFO]: Loaded 11 advancements
-[18:30:30] [main/INFO]: Loaded 13 advancements
-[18:32:05] [Server thread/INFO]: Fmohican has made the advancement [Recursive Networking]
-[18:32:05] [main/INFO]: [CHAT] Fmohican has made the advancement [Recursive Networking]
-[18:32:05] [main/INFO]: Loaded 18 advancements
-[18:32:43] [main/INFO]: [CHAT] Left click: select pos #1; Right click: select pos #2
-[18:32:45] [main/INFO]: [CHAT] First position set to (-167.0, 76.0, 315.0).
-[18:32:46] [main/INFO]: [CHAT] Second position set to (-167.0, 71.0, 315.0) (6).
-[18:32:46] [main/INFO]: [CHAT] Second position set to (-167.0, 69.0, 315.0) (8).
-[18:32:46] [main/INFO]: [CHAT] Second position set to (-167.0, 67.0, 315.0) (10).
-[18:32:47] [main/INFO]: [CHAT] Second position set to (-167.0, 66.0, 315.0) (11).
-[18:32:47] [main/INFO]: [CHAT] Second position set to (-167.0, 65.0, 315.0) (12).
-[18:32:57] [main/INFO]: [CHAT] First position set to (-167.0, 79.0, 315.0) (15).
-[18:33:07] [main/INFO]: [CHAT] First position set to (-166.0, 64.0, 314.0) (8).
-[18:33:11] [main/INFO]: [CHAT] Second position set to (-168.0, 64.0, 316.0) (9).
-[18:33:18] [main/INFO]: [CHAT] 60 blocks changed. Undo with //undo
-[18:33:34] [main/INFO]: [CHAT] 9 block(s) were copied.
-[18:33:39] [main/INFO]: [CHAT] The clipboard has been pasted at (-168.0, 64.0, 318.0)
-[18:33:46] [main/INFO]: [CHAT] First position set to (-166.0, 64.0, 320.0) (15).
-[18:33:47] [main/INFO]: [CHAT] Second position set to (-168.0, 64.0, 318.0) (9).
-[18:33:54] [main/INFO]: [CHAT] 75 blocks changed. Undo with //undo
-[18:34:16] [Server thread/INFO]: Fmohican has made the advancement [Network Apprentice]
-[18:34:16] [main/INFO]: [CHAT] Fmohican has made the advancement [Network Apprentice]
-[18:34:16] [main/INFO]: Loaded 21 advancements
-[18:35:10] [Server thread/INFO]: Fmohican has made the advancement [A (Much) Bigger Table]
-[18:35:10] [main/INFO]: [CHAT] Fmohican has made the advancement [A (Much) Bigger Table]
-[18:35:10] [main/INFO]: Loaded 21 advancements
-[18:35:14] [Server thread/INFO]: Fmohican has made the advancement [Crafting Maestro]
-[18:35:14] [main/INFO]: [CHAT] Fmohican has made the advancement [Crafting Maestro]
-[18:35:14] [main/INFO]: Loaded 21 advancements
-[18:35:42] [Server thread/INFO]: Fmohican has made the advancement [An alchemist's best friend!]
-[18:35:42] [main/INFO]: [CHAT] Fmohican has made the advancement [An alchemist's best friend!]
-[18:35:42] [main/INFO]: Loaded 27 advancements
-[18:36:19] [main/INFO]: [CHAT] The Blood Moon is rising...
-[18:37:12] [main/INFO]: [CHAT] /blockdata, /bloodmoon
-[18:37:13] [main/INFO]: [CHAT] /blockdata, /bloodmoon
-[18:37:15] [main/INFO]: [CHAT] Stopped the Bloodmoon
-[18:52:39] [main/INFO]: [CHAT] Saved screenshot as 2018-03-08_18.52.39.png
-[18:56:19] [main/INFO]: [CHAT] The Blood Moon is rising...
-[18:58:08] [Server thread/INFO]: Changing difficulty to HARD, from NORMAL
-[18:58:08] [Server thread/INFO]: Changing difficulty to PEACEFUL, from HARD
-[18:58:11] [Server thread/INFO]: Locking difficulty to PEACEFUL
-[19:00:18] [main/INFO]: [CHAT] Stopped the Bloodmoon
-[19:13:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2148ms behind, skipping 42 tick(s)
-[19:14:04] [main/INFO]: [CHAT] minecraft:absorption, minecraft:blindness, minecraft:fire_resistance, minecraft:glowing, minecraft:haste, minecraft:health_boost, minecraft:hunger, minecraft:instant_damage, minecraft:instant_health, minecraft:invisibility, minecraft:jump_boost, minecraft:levitation, minecraft:luck, minecraft:mining_fatigue, minecraft:nausea, minecraft:night_vision, minecraft:poison, minecraft:regeneration, minecraft:resistance, minecraft:saturation, minecraft:slowness, minecraft:speed, minecraft:strength, minecraft:unluck, minecraft:water_breathing, minecraft:weakness, minecraft:wither
-[19:14:05] [main/INFO]: [CHAT] minecraft:absorption, minecraft:blindness, minecraft:fire_resistance, minecraft:glowing, minecraft:haste, minecraft:health_boost, minecraft:hunger, minecraft:instant_damage, minecraft:instant_health, minecraft:invisibility, minecraft:jump_boost, minecraft:levitation, minecraft:luck, minecraft:mining_fatigue, minecraft:nausea, minecraft:night_vision, minecraft:poison, minecraft:regeneration, minecraft:resistance, minecraft:saturation, minecraft:slowness, minecraft:speed, minecraft:strength, minecraft:unluck, minecraft:water_breathing, minecraft:weakness, minecraft:wither
-[19:14:07] [main/INFO]: [CHAT] minecraft:nausea, minecraft:night_vision
-[19:14:07] [main/INFO]: [CHAT] minecraft:nausea, minecraft:night_vision
-[19:14:12] [main/INFO]: [CHAT] The number you have entered (324234322) is too big, it must be at most 1000000
-[19:14:15] [main/INFO]: [CHAT] The number you have entered (3242343) is too big, it must be at most 1000000
-[19:14:17] [Server thread/INFO]: [Fmohican: Given Night Vision (ID 16) * 255 to Fmohican for 32423 seconds]
-[19:14:17] [main/INFO]: [CHAT] Given Night Vision (ID 16) * 255 to Fmohican for 32423 seconds
-[19:14:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8128ms behind, skipping 162 tick(s)
-[19:14:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2036ms behind, skipping 40 tick(s)
-[19:14:58] [Server thread/INFO]: [Fmohican: Set own game mode to Survival Mode]
-[19:14:58] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
-[19:15:04] [Server thread/INFO]: [Fmohican: Set own game mode to Creative Mode]
-[19:15:04] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
-[19:15:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3420ms behind, skipping 68 tick(s)
-[19:16:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 31540ms behind, skipping 630 tick(s)
-[19:16:32] [Server thread/INFO]: [Fmohican: Set own game mode to Survival Mode]
-[19:16:32] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
-[19:29:11] [Server thread/INFO]: [Fmohican: Set own game mode to Creative Mode]
-[19:29:11] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
-[19:29:44] [main/INFO]: [CHAT] Unknown command. Try /help for a list of commands
-[19:29:45] [main/INFO]: [CHAT] Unknown command. Try /help for a list of commands
-[19:29:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2896ms behind, skipping 57 tick(s)
-[19:30:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21218ms behind, skipping 424 tick(s)
-[19:30:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4287ms behind, skipping 85 tick(s)
-[19:31:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 25796ms behind, skipping 515 tick(s)
-[19:32:17] [main/INFO]: [CHAT] Excavate Shape: 1x2
-[19:32:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5503ms behind, skipping 110 tick(s)
-[19:33:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9107ms behind, skipping 182 tick(s)
-[19:39:03] [Server thread/INFO]: Fmohican has made the advancement [Fluix Energy Connection]
-[19:39:03] [main/INFO]: [CHAT] Fmohican has made the advancement [Fluix Energy Connection]
-[19:39:03] [main/INFO]: Loaded 30 advancements
-[19:44:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10472ms behind, skipping 209 tick(s)
-[19:54:58] [main/INFO]: Loaded 36 advancements
-[19:57:46] [main/INFO]: [CHAT] First position set to (-83.0, 70.0, 312.0) (4214).
-[19:57:47] [main/INFO]: [CHAT] Second position set to (-83.0, 70.0, 312.0) (1).
-[19:57:50] [main/INFO]: [CHAT] Unknown direction: NORTH_EAST
-[19:57:53] [main/INFO]: [CHAT] Region expanded 10 blocks.
-[19:57:55] [main/INFO]: [CHAT] Region expanded 10 blocks.
-[19:57:56] [main/INFO]: [CHAT] Region expanded 210 blocks.
-[19:57:57] [main/INFO]: [CHAT] Region expanded 210 blocks.
-[19:57:59] [main/INFO]: [CHAT] Operation completed (441 blocks affected).
-[19:58:02] [main/INFO]: [CHAT] The Blood Moon is rising...
-[20:00:10] [main/INFO]: [CHAT] Stopped the Bloodmoon
-[20:18:33] [main/INFO]: [CHAT] Left click: select pos #1; Right click: select pos #2
-[20:18:38] [main/INFO]: [CHAT] First position set to (-98.0, 73.0, 315.0) (192).
-[20:18:41] [main/INFO]: [CHAT] Second position set to (-98.0, 73.0, 309.0) (7).
-[20:18:45] [main/INFO]: [CHAT] 74 blocks changed. Undo with //undo
-[20:18:45] [main/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.util.ConcurrentModificationException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_112]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_112]
-	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
-	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1086) [bib.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397) [bib.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_112]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_112]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_112]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_112]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
-Caused by: java.util.ConcurrentModificationException
-	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1437) ~[?:1.8.0_112]
-	at java.util.HashMap$ValueIterator.next(HashMap.java:1466) ~[?:1.8.0_112]
-	at net.minecraft.world.chunk.Chunk.func_186033_a(Chunk.java:1195) ~[axw.class:?]
-	at net.minecraft.client.network.NetHandlerPlayClient.func_147263_a(NetHandlerPlayClient.java:745) ~[brz.class:?]
-	at net.minecraft.network.play.server.SPacketChunkData.func_148833_a(SourceFile:96) ~[je.class:?]
-	at net.minecraft.network.play.server.SPacketChunkData.func_148833_a(SourceFile:18) ~[je.class:?]
-	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_112]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_112]
-	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
-	... 9 more
-[20:19:10] [main/INFO]: [CHAT] First position set to (-87.0, 76.0, 309.0) (48).
-[20:19:21] [main/INFO]: [CHAT] Second position set to (-87.0, 70.0, 315.0) (49).
-[20:19:26] [main/INFO]: [CHAT] Second position set to (-87.0, 70.0, 314.0) (42).
-[20:19:31] [main/INFO]: [CHAT] 373 blocks changed. Undo with //undo
-[20:19:31] [main/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.util.ConcurrentModificationException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_112]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_112]
-	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
-	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1086) [bib.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397) [bib.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_112]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_112]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_112]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_112]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
-Caused by: java.util.ConcurrentModificationException
-	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1437) ~[?:1.8.0_112]
-	at java.util.HashMap$ValueIterator.next(HashMap.java:1466) ~[?:1.8.0_112]
-	at net.minecraft.world.chunk.Chunk.func_186033_a(Chunk.java:1195) ~[axw.class:?]
-	at net.minecraft.client.network.NetHandlerPlayClient.func_147263_a(NetHandlerPlayClient.java:745) ~[brz.class:?]
-	at net.minecraft.network.play.server.SPacketChunkData.func_148833_a(SourceFile:96) ~[je.class:?]
-	at net.minecraft.network.play.server.SPacketChunkData.func_148833_a(SourceFile:18) ~[je.class:?]
-	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_112]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_112]
-	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
-	... 9 more
-[20:19:31] [main/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.util.ConcurrentModificationException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_112]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_112]
-	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
-	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1086) [bib.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397) [bib.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_112]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_112]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_112]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_112]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
-Caused by: java.util.ConcurrentModificationException
-	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1437) ~[?:1.8.0_112]
-	at java.util.HashMap$ValueIterator.next(HashMap.java:1466) ~[?:1.8.0_112]
-	at net.minecraft.world.chunk.Chunk.func_186033_a(Chunk.java:1195) ~[axw.class:?]
-	at net.minecraft.client.network.NetHandlerPlayClient.func_147263_a(NetHandlerPlayClient.java:745) ~[brz.class:?]
-	at net.minecraft.network.play.server.SPacketChunkData.func_148833_a(SourceFile:96) ~[je.class:?]
-	at net.minecraft.network.play.server.SPacketChunkData.func_148833_a(SourceFile:18) ~[je.class:?]
-	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_112]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_112]
-	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
-	... 9 more
-[20:19:31] [main/FATAL]: Error executing task
-java.util.concurrent.ExecutionException: java.util.ConcurrentModificationException
-	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_112]
-	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_112]
-	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
-	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1086) [bib.class:?]
-	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397) [bib.class:?]
-	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_112]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_112]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_112]
-	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_112]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
-Caused by: java.util.ConcurrentModificationException
-	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1437) ~[?:1.8.0_112]
-	at java.util.HashMap$ValueIterator.next(HashMap.java:1466) ~[?:1.8.0_112]
-	at net.minecraft.world.chunk.Chunk.func_186033_a(Chunk.java:1195) ~[axw.class:?]
-	at net.minecraft.client.network.NetHandlerPlayClient.func_147263_a(NetHandlerPlayClient.java:745) ~[brz.class:?]
-	at net.minecraft.network.play.server.SPacketChunkData.func_148833_a(SourceFile:96) ~[je.class:?]
-	at net.minecraft.network.play.server.SPacketChunkData.func_148833_a(SourceFile:18) ~[je.class:?]
-	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_112]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_112]
-	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
-	... 9 more
-[20:21:40] [main/INFO]: [CHAT] Connection type changed to Push
-[20:21:52] [main/INFO]: [CHAT] Connection type changed to Push
-[20:21:53] [main/INFO]: [CHAT] Connection type changed to Pull
-[20:21:55] [main/INFO]: [CHAT] Connection type changed to Push
-[20:22:01] [main/INFO]: [CHAT] §1[Mekanism]§7 Gases behavior bumped to: §4Output (§4Dark Red)
-[20:23:07] [main/INFO]: [CHAT] Connection type changed to Push
-[20:23:15] [main/INFO]: [CHAT] §1[Mekanism]§7 Gases behavior bumped to: §4Output (§4Dark Red)
-[20:23:18] [main/INFO]: [CHAT] Connection type changed to Push
-[20:23:18] [main/INFO]: [CHAT] Connection type changed to Pull
-[20:24:05] [main/INFO]: Stopping!
-[20:24:05] [Server thread/INFO]: Stopping server
-[20:24:06] [Server thread/INFO]: Saving players
-[20:24:06] [Server thread/INFO]: Saving worlds
-[20:24:06] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
-[20:24:06] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
-[20:24:06] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
-[20:24:06] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
-[20:24:06] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
-[20:24:14] [main/INFO]: SoundSystem shutting down...
-[20:24:14] [main/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:46:51] [Server thread/INFO]: Loaded 556 advancements
+[20:46:53] [Server thread/INFO]: Preparing start region for level 0
+[20:46:54] [Server thread/INFO]: Preparing spawn area: 5%
+[20:46:55] [Server thread/INFO]: Preparing spawn area: 10%
+[20:46:56] [Server thread/INFO]: Preparing spawn area: 16%
+[20:46:57] [Server thread/INFO]: Preparing spawn area: 22%
+[20:46:58] [Server thread/INFO]: Preparing spawn area: 27%
+[20:46:59] [Server thread/INFO]: Preparing spawn area: 32%
+[20:47:00] [Server thread/INFO]: Preparing spawn area: 38%
+[20:47:01] [Server thread/INFO]: Preparing spawn area: 45%
+[20:47:02] [Server thread/INFO]: Preparing spawn area: 51%
+[20:47:03] [Server thread/INFO]: Preparing spawn area: 58%
+[20:47:04] [Server thread/INFO]: Preparing spawn area: 63%
+[20:47:08] [Server thread/INFO]: Preparing spawn area: 63%
+[20:47:09] [Server thread/INFO]: Preparing spawn area: 64%
+[20:47:10] [Server thread/INFO]: Preparing spawn area: 68%
+[20:47:11] [Server thread/INFO]: Preparing spawn area: 73%
+[20:47:12] [Server thread/INFO]: Preparing spawn area: 80%
+[20:47:13] [Server thread/INFO]: Preparing spawn area: 86%
+[20:47:14] [Server thread/INFO]: Preparing spawn area: 93%
+[20:47:15] [Server thread/INFO]: Preparing spawn area: 99%
+[20:47:19] [Server thread/INFO]: Fmohican[local:E:610d7d33] logged in with entity id 633 at (168.5, 75.0, 257.5)
+[20:47:19] [Server thread/INFO]: Fmohican joined the game
+[20:47:25] [main/INFO]: [CHAT] WARNING: Overwritten Mekanism Crusher Recipe for <appliedenergistics2:material:4>
+[20:47:27] [main/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[20:47:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10378ms behind, skipping 207 tick(s)
+[20:53:49] [main/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[20:53:51] [main/INFO]: [CHAT] You do not have permission to use this command
+[20:53:51] [Server thread/INFO]: Saving and pausing game...
+[20:53:51] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:53:51] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[20:53:51] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[20:53:51] [Server thread/INFO]: Saving chunks for level 'New World'/The Beneath
+[20:53:51] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[20:53:51] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[20:53:54] [main/INFO]: Using default channel type
+[20:53:54] [main/INFO]: Started on 25565
+[20:53:54] [main/INFO]: [CHAT] Local game hosted on port 25565
+[20:53:55] [Server thread/INFO]: [Fmohican: Set own game mode to Creative Mode]
+[20:53:55] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[20:54:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4304ms behind, skipping 86 tick(s)
+[20:55:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4860ms behind, skipping 97 tick(s)
+[20:55:52] [main/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[20:55:55] [main/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[20:56:39] [Server thread/INFO]: [Fmohican: Set own game mode to Survival Mode]
+[20:56:39] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[20:56:52] [Server thread/INFO]: Fmohican was slain by Spider
+[20:56:52] [main/INFO]: [CHAT] Fmohican was slain by Spider
+[20:56:52] [main/INFO]: Loaded 9 advancements
+[20:56:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4534ms behind, skipping 90 tick(s)
+[20:57:36] [main/INFO]: [CHAT] The Blood Moon is rising...
+[20:59:06] [Server thread/INFO]: Fmohican was slain by Zombie
+[20:59:06] [main/INFO]: [CHAT] Fmohican was slain by Zombie
+[20:59:29] [Server thread/INFO]: Fmohican lost connection: Disconnected
+[20:59:29] [Server thread/INFO]: Fmohican left the game
+[20:59:29] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:59:29] [Server thread/INFO]: Stopping server
+[20:59:29] [Server thread/INFO]: Saving players
+[20:59:29] [Server thread/INFO]: Saving worlds
+[20:59:29] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:59:30] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[20:59:30] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[20:59:30] [Server thread/INFO]: Saving chunks for level 'New World'/Spectre
+[20:59:30] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[20:59:40] [main/INFO]: Stopping!
+[20:59:40] [main/INFO]: SoundSystem shutting down...
+[20:59:40] [main/WARN]: Author: Paul Lamb, www.paulscode.com
