@@ -1,0 +1,18 @@
+{
+  "id": "Casa_233,63,-164",
+  "name": "Casa",
+  "icon": "waypoint-normal.png",
+  "x": 233,
+  "y": 63,
+  "z": -164,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
