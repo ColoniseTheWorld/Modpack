@@ -3,7 +3,10 @@ recipes.addShaped(<minecraft:bread:0>,
  [[null, null, null],
   [<minecraft:wheat:0>, <minecraft:wheat:0>, <minecraft:wheat:0>],
   [null, null, null]]);
-
+  
+//
+recipes.addShaped(<beneath:teleporterbeneath>, [[<mekanism:teleportationcore>, <tconstruct:materials:10>, <mekanism:teleportationcore>],[<tconstruct:materials:9>, <mekanism:portableteleporter>, <tconstruct:materials:11>], [<mekanism:teleportationcore>, <appliedenergistics2:charged_quartz_ore>, <mekanism:teleportationcore>]]);
+  
 //uncrafting brick
 recipes.addShapeless(<minecraft:brick> * 4, [<minecraft:brick_block>]);
 //uncrafting clay

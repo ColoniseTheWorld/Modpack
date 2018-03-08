@@ -1,0 +1,111 @@
+{
+  "appliedenergistics2:main/cable_glass": {
+    "criteria": {
+      "certus": "2018-03-08 19:39:03 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/interface": {
+    "criteria": {
+      "certus": "2018-03-08 18:32:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:54:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2018-03-08 18:30:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:54:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:54:58 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/controller": {
+    "criteria": {
+      "certus": "2018-03-08 18:28:35 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2018-03-08 18:35:10 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/storage_cell": {
+    "criteria": {
+      "c64k": "2018-03-08 18:30:29 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network1": {
+    "criteria": {
+      "cable": "2018-03-08 18:34:16 +0200"
+    },
+    "done": true
+  },
+  "projecte:philosophers_stone": {
+    "criteria": {
+      "philosophers_stone": "2018-03-08 18:35:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:54:58 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/crafting_cpu": {
+    "criteria": {
+      "c64k": "2018-03-08 18:28:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:54:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:54:58 +0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/pattern_terminal": {
+    "criteria": {
+      "certus": "2018-03-08 18:35:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2018-03-08 19:33:05 +0200",
+      "deep_ocean": "2018-03-08 19:57:43 +0200",
+      "beaches": "2018-03-08 18:26:06 +0200",
+      "plains": "2018-03-08 18:24:15 +0200",
+      "taiga": "2018-03-08 19:29:52 +0200",
+      "taiga_hills": "2018-03-08 19:30:09 +0200",
+      "ocean": "2018-03-08 19:31:10 +0200",
+      "river": "2018-03-08 19:57:38 +0200"
+    },
+    "done": false
+  }
+}

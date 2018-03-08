@@ -27,6 +27,8 @@ config/AppliedEnergistics2/*
 /resourcepacks
 /screenshots
 /server-resource-packs
+/saves
+.curseclient
 
 realms_persistence.json
 crafttweaker.log

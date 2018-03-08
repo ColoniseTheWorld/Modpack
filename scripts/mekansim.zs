@@ -54,12 +54,6 @@ recipes.addShaped(<mekanismgenerators:turbineblade:0>,
   [<mekanism:ingot:4>, <mekanism:reinforcedalloy:0>, <mekanism:ingot:4>],
   [<mekanism:enrichedalloy:0>, <mekanism:ingot:4>, <mekanism:enrichedalloy:0>]]);
   
-//Turbine Blade (1 x Reinforced Alloy, 4x Steel Ingot, 4x Enriched Alloy
-recipes.addShaped(<mekanismgenerators:turbineblade:0>,
- [[<mekanism:enrichedalloy:0>, <mekanism:ingot:4>, <mekanism:enrichedalloy:0>],
-  [<mekanism:ingot:4>, <mekanism:reinforcedalloy:0>, <mekanism:ingot:4>],
-  [<mekanism:enrichedalloy:0>, <mekanism:ingot:4>, <mekanism:enrichedalloy:0>]]);
-
 //Wind Turbine (3x Turbine Blade, 1x Advancec Control Cirucit, 2x EnergyTablet)
 recipes.addShaped(<mekanismgenerators:generator:6>,
  [[null, <mekanismgenerators:turbineblade:0>, null],
@@ -104,9 +98,6 @@ mods.mekanism.enrichment.addRecipe(<tconstruct:ore:1>, <tconstruct:ingots:1>);
 
 //Coblat Ore -> Cobalt Ingot
 mods.mekanism.enrichment.addRecipe(<tconstruct:ore:0>, <tconstruct:ingots:0>);
-
-//Soulium & Grass -> Cursed Earth
-mods.mekanism.combiner.addRecipe(<minecraft:grass>, <mysticalagriculture:crafting:29> * 8, <extrautils2:cursedearth:0>);
 
 //Certus Quartz + Redstone -> Fluix Certus Quartz
 mods.mekanism.combiner.addRecipe(<appliedenergistics2:material:0>, <minecraft:redstone:0> * 4, <appliedenergistics2:material:7>);

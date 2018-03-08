@@ -126,7 +126,3 @@ recipes.addShaped(<thermalfoundation:material:131>, [[<projecte:item.pe_philosop
 recipes.addShaped(<mekanism:ingot:6>, [[<projecte:item.pe_philosophers_stone>, <thermalfoundation:material:132>, null],[<thermalfoundation:material:132>, null, null], [null, null, null]]);
 
 recipes.addShaped(<mekanism:ingot:6>, [[<projecte:item.pe_philosophers_stone>, <mekanism:ingot:5>, null],[<mekanism:ingot:5>, null, null], [null, null, null]]);
-
-recipes.addShaped(<thermalfoundation:material:132>, [[<projecte:item.pe_philosophers_stone>, <mekanism:ingot:5>, null],[null, null, null], [null, null, null]]);
-
-recipes.addShaped(<mekanism:ingot:5>, [[<projecte:item.pe_philosophers_stone>, <thermalfoundation:material:132>, null],[null, null, null], [null, null, null]]);

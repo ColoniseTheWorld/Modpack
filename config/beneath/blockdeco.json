@@ -1,0 +1,32 @@
+[
+  {
+    "ore": "minecraft:stone",
+    "oremeta": 1,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 33,
+    "size": 0,
+    "miny": 0,
+    "maxy": 160
+  },
+  {
+    "ore": "minecraft:stone",
+    "oremeta": 3,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 33,
+    "size": 0,
+    "miny": 0,
+    "maxy": 160
+  },
+  {
+    "ore": "minecraft:stone",
+    "oremeta": 5,
+    "source": "minecraft:stone",
+    "srcmeta": 0,
+    "veins": 33,
+    "size": 0,
+    "miny": 0,
+    "maxy": 160
+  }
+]
