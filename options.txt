@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:false
 ao:2
 renderClouds:false
@@ -112,16 +112,13 @@ key_key.placeItem:25
 key_key.toolConfig:73
 key_key.toolProfileChange:72
 key_key.toggleFlight:0
-key_waila.keybind.wailaconfig:82
-key_waila.keybind.wailadisplay:79
-key_waila.keybind.liquid:80
-key_waila.keybind.recipe:81
-key_waila.keybind.usage:75
+key_key.toggleLiquids:38
+key_key.toggleVisible:0
 key_key.immersiveengineering.magnetEquip:31
 key_key.immersiveengineering.chemthrowerSwitch:0
 key_invtweaks.key.sort:0
-key_Mekanism Item Mode Switch:50
-key_Mekanism Armor Mode Switch:34
+key_Mekanism Item Mode Switch:74
+key_Mekanism Armor Mode Switch:78
 key_Mekanism Feet Mode Switch:35
 key_Mekanism Voice:0
 key_key.plustic_release_entity.desc:11
@@ -129,7 +126,6 @@ key_key.plustic_toggle_gui.desc:23
 key_key.plustic_set_portal.desc:49
 key_key.plustic_brown_magic.desc:24
 key_key.plustic_toggle_tool.desc:51:ALT
-key_WorldEdit Reference:38
 key_key.journeymap.zoom_in:0
 key_key.journeymap.zoom_out:0
 key_key.journeymap.minimap_type:26

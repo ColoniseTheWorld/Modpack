@@ -13,3 +13,6 @@ recipes.addShapeless(<minecraft:brick> * 4, [<minecraft:brick_block>]);
 recipes.addShapeless(<minecraft:clay_ball> * 4, [<minecraft:clay>]);
 //uncrafting seared
 recipes.addShapeless(<tconstruct:materials> * 4, [<tconstruct:seared:3>]);
+//That can shit your world
+recipes.remove(<tconstruct:throwball>);
+recipes.remove(<tconstruct:throwball:1>);

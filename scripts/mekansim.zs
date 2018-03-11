@@ -23,8 +23,11 @@ var rmitm = [
     <mekanismgenerators:generator:6>, // Wind Generator
     <mekanism:teleportationcore:0>, // Teleportation Core
     <mekanismgenerators:turbineblade:0>, // Turbine Blade
-    <mekanism:portableteleporter>, //Portable Teleporter
-    <mekanism:craftingformula> //Crafting Forumla
+    <mekanism:portableteleporter:0>, //Portable Teleporter
+    <mekanism:craftingformula:0>, //Crafting Forumla
+    <mekanism:basicblock:6>,
+    <mekanismgenerators:generator:5>,
+    <mekanism:machineblock:4>
 ] as IItemStack[];
 
 for item in rmitm {
@@ -35,11 +38,17 @@ for item in rmitm {
 /////// Added Items         ///////////
 ///////////////////////////////////////
 
+recipes.addShaped(<mekanism:basicblock:6>, [[<minecraft:cobblestone>, <mekanism:ingot:1>, <minecraft:cobblestone>],[<minecraft:redstone>, null, <minecraft:redstone>], [<minecraft:cobblestone>, <minecraft:cobblestone>, <minecraft:cobblestone>]]);
+
+recipes.addShaped(<mekanismgenerators:generator:5>, [[<mekanismgenerators:generator:1>, <mekanism:atomicalloy>, <mekanismgenerators:generator:1>],[<mekanismgenerators:generator:1>, <mekanism:atomicalloy>, <mekanismgenerators:generator:1>], [<mekanism:basicblock:2>, <mekanism:controlcircuit:3>, <mekanism:basicblock:2>]]);
+
+recipes.addShaped(<mekanism:machineblock:4>, [[<mekanism:controlcircuit:3>, <mekanism:machineblock:11>, <mekanism:atomicalloy>],[<mekanism:machineblock:11>, <mekanism:robit>, <mekanism:machineblock:11>], [<mekanism:atomicalloy>, <mekanism:teleportationcore>, <mekanism:controlcircuit:3>]]);
+
 //Portable Teleporter
-recipes.addShaped(<mekanism:portableteleporter>, [[<mekanism:reinforcedalloy>, <mekanism:energytablet>, <mekanism:reinforcedalloy>],[<mekanism:controlcircuit:3>, <mekanism:teleportationcore>, <mekanism:controlcircuit:3>], [<mekanism:reinforcedalloy>, <mekanism:energytablet>, <mekanism:reinforcedalloy>]]);
+recipes.addShaped(<mekanism:portableteleporter:0>, [[<mekanism:reinforcedalloy>, <mekanism:energytablet>, <mekanism:reinforcedalloy>],[<mekanism:controlcircuit:3>, <mekanism:teleportationcore>, <mekanism:controlcircuit:3>], [<mekanism:reinforcedalloy>, <mekanism:energytablet>, <mekanism:reinforcedalloy>]]);
 
 //Crafting Forumla
-recipes.addShaped(<mekanism:craftingformula>,
+recipes.addShaped(<mekanism:craftingformula:0>,
 [[<appliedenergistics2:material:23>, <mekanism:controlcircuit>, <appliedenergistics2:material:23>],
 [<mekanism:controlcircuit>, <appliedenergistics2:material:35>, <mekanism:controlcircuit>],
 [<appliedenergistics2:material:23>, <mekanism:controlcircuit>, <appliedenergistics2:material:23>]]);
