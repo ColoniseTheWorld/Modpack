@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:0
+difficulty:3
 fancyGraphics:false
 ao:2
 renderClouds:false
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
-fullscreen:false
+fullscreen:true
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -85,6 +85,9 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
+key_key.betterquesting.quests:41
+key_key.ij.engine:47
+key_key.ij.hover:34
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:44
 key_pe.key.armor_toggle:45
@@ -92,14 +95,8 @@ key_pe.key.charge:47
 key_pe.key.extra_function:46
 key_pe.key.fire_projectile:19
 key_pe.key.mode:34
-key_simplyjetpacks.keybind.engine:34
-key_simplyjetpacks.keybind.hover:38
-key_simplyjetpacks.keybind.charger:25
-key_simplyjetpacks.keybind.emergencyhover:19
-key_bbw.key.mode:0
-key_bbw.key.fluidmode:0
-key_key.chunkEdgeIndicator:67
-key_key.cofh.multimode:76
+key_Difficulty Meter - Show:49
+key_Difficulty Meter - Show Always:49:SHIFT
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -108,6 +105,9 @@ key_key.jei.showUses:22
 key_key.jei.recipeBack:14
 key_key.jei.previousPage:201
 key_key.jei.nextPage:209
+key_bbw.key.mode:0
+key_bbw.key.fluidmode:0
+key_key.chunkEdgeIndicator:67
 key_key.placeItem:25
 key_key.toolConfig:73
 key_key.toolProfileChange:72
@@ -121,11 +121,6 @@ key_Mekanism Item Mode Switch:74
 key_Mekanism Armor Mode Switch:78
 key_Mekanism Feet Mode Switch:35
 key_Mekanism Voice:0
-key_key.plustic_release_entity.desc:11
-key_key.plustic_toggle_gui.desc:23
-key_key.plustic_set_portal.desc:49
-key_key.plustic_brown_magic.desc:24
-key_key.plustic_toggle_tool.desc:51:ALT
 key_key.journeymap.zoom_in:0
 key_key.journeymap.zoom_out:0
 key_key.journeymap.minimap_type:26

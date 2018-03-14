@@ -1,0 +1,287 @@
+[01:16:29] [main/INFO]: Setting user: Fmohican
+[01:16:34] [main/INFO]: LWJGL Version: 2.9.4
+[01:16:48] [main/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Uncrafting Table, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:AppleSkin, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Builder's Wands, FMLFileResourcePack:Better Questing, FMLFileResourcePack:Bloodmoon, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chunk Edge Indicator, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:Extended Renderer, FMLFileResourcePack:CoroUtil Library, FMLFileResourcePack:Extended Mod Config, FMLFileResourcePack:CT-GUI, FMLFileResourcePack:CraftTweaker2, FMLFileResourcePack:CraftTweaker JEI Support, FMLFileResourcePack:Cucumber, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:Deadly Monsters, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:Elevator Mod, FMLFileResourcePack:EnderPay, FMLFileResourcePack:Extended Crafting, FMLFileResourcePack:Foamflower, FMLFileResourcePack:Global XP, FMLFileResourcePack:Gravestone Mod, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Jetpacks, FMLFileResourcePack:Just Enough HarvestCraft, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JEI Integration, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineColonies, FMLFileResourcePack:Moar Tinkers, FMLFileResourcePack:Mod Tweaker, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:MTLib, FMLFileResourcePack:Mystical Agriculture, FMLFileResourcePack:OreExcavation, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:ProjectE, FMLFileResourcePack:RadixCore, FMLFileResourcePack:Redstone Flux, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:Scaling Health, FMLFileResourcePack:Silent Lib, FMLFileResourcePack:Standard Expansion, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:The Beneath, FMLFileResourcePack:The One Probe, FMLFileResourcePack:Tinkers' Complement, FMLFileResourcePack:Tinkers Tool Leveling, FMLFileResourcePack:UniDict, FMLFileResourcePack:Vending, FMLFileResourcePack:WanionLib, CustomResources, CustomOverridingResources
+[01:17:09] [main/WARN]: File immersiveengineering:sounds/revolver_fire_thump.ogg does not exist, cannot add it to event immersiveengineering:revolverfirethump
+[01:17:09] [main/WARN]: File minecolonies:sounds/mob/deliveryman/female/inhaleexhale1.ogg does not exist, cannot add it to event minecolonies:mob.deliveryman.female.noise
+[01:17:09] [main/WARN]: File minecolonies:sounds/mob/builder/female/whatisit.ogg does not exist, cannot add it to event minecolonies:mob.builder.female.interaction
+[01:17:09] [main/WARN]: Missing sound for event: minecolonies:mob.guard.archer.female.badhousing
+[01:17:09] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[01:17:09] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[01:17:09] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[01:17:09] [Thread-8/INFO]: OpenAL initialized.
+[01:17:09] [Sound Library Loader/INFO]: Sound engine started
+[01:17:26] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:26] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:26] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:27] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:27] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:27] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:28] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:28] [main/WARN]: Texture minecolonies:textures/blocks/info/info_poster_wax.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:28] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:28] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:28] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:29] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:29] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:29] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:30] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:30] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:31] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/pressurizedtubeverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:31] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/thermodynamicconductorverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:31] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:32] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticalultimate.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:32] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/universalcableverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:32] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticalelite.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:32] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/universalcableverticaladvanced.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:32] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/pressurizedtubeverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:32] [main/WARN]: Texture mekanism:textures/blocks/models/multipart/thermodynamicconductorverticalbasic.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[01:17:34] [main/INFO]: Created: 4096x2048 textures-atlas
+[01:18:07] [main/INFO]: Narrator library for x64 successfully loaded
+[01:26:38] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[01:26:38] [Server thread/INFO]: Generating keypair
+[01:26:42] [Server thread/WARN]: Couldn't find resource table dmonsters:zombiechicken
+[01:26:43] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/pumpkin_pie
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:pumpkin_pie'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:122) [chd.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_112]
+[01:26:43] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/mushroom_stew
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mushroom_stew'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:122) [chd.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_112]
+[01:26:43] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/cookie
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:cookie'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:122) [chd.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_112]
+[01:26:43] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/bread
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:bread'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:122) [chd.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_112]
+[01:26:43] [Server thread/ERROR]: Parsing error loading built-in advancement minecraft:recipes/food/beetroot_soup
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:beetroot_soup'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:122) [chd.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:156) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:484) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_112]
+[01:26:43] [Server thread/INFO]: Loaded 556 advancements
+[01:26:43] [Server thread/WARN]: Unable to find spawn biome
+[01:26:46] [Server thread/INFO]: Preparing start region for level 0
+[01:26:47] [Server thread/INFO]: Preparing spawn area: 7%
+[01:26:48] [Server thread/INFO]: Preparing spawn area: 13%
+[01:26:49] [Server thread/INFO]: Preparing spawn area: 21%
+[01:26:50] [Server thread/INFO]: Preparing spawn area: 30%
+[01:26:51] [Server thread/INFO]: Preparing spawn area: 38%
+[01:26:52] [Server thread/INFO]: Preparing spawn area: 45%
+[01:26:53] [Server thread/INFO]: Preparing spawn area: 51%
+[01:26:54] [Server thread/INFO]: Preparing spawn area: 58%
+[01:26:55] [Server thread/INFO]: Preparing spawn area: 66%
+[01:26:56] [Server thread/INFO]: Preparing spawn area: 73%
+[01:26:57] [Server thread/INFO]: Preparing spawn area: 80%
+[01:26:58] [Server thread/INFO]: Preparing spawn area: 87%
+[01:26:59] [Server thread/INFO]: Preparing spawn area: 92%
+[01:27:00] [Server thread/INFO]: Preparing spawn area: 97%
+[01:27:05] [Server thread/INFO]: Fmohican[local:E:289abda4] logged in with entity id 2180 at (123.5, 80.0, 13.5)
+[01:27:05] [Server thread/INFO]: Fmohican joined the game
+[01:27:10] [main/INFO]: [CHAT] InvTweaks: C:\Users\fmohican\Documents\Curse\Minecraft\Instances\ColonizeTheWorld (1)\config\InvTweaksRules.txt missing, creating default one.
+[01:27:10] [main/INFO]: [CHAT] InvTweaks: C:\Users\fmohican\Documents\Curse\Minecraft\Instances\ColonizeTheWorld (1)\config\InvTweaksTree.txt missing, creating default one.
+[01:27:10] [Server thread/INFO]: Saving and pausing game...
+[01:27:10] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[01:27:11] [main/INFO]: [CHAT] ERROR: mekansim.zs:116: Could not resolve <thermalfoundation : material : 1024>
+[01:27:11] [main/INFO]: [CHAT] ERROR: mekansim.zs:119: Could not resolve <thermalfoundation : material : 2048>
+[01:27:11] [main/INFO]: [CHAT] ERROR: mekansim.zs:119: Could not resolve <thermalfoundation : material : 1025>
+[01:27:11] [main/INFO]: [CHAT] ERROR: mekansim.zs:122: Could not resolve <thermalfoundation : material : 1024>
+[01:27:11] [main/INFO]: [CHAT] ERROR: mekansim.zs:125: Could not resolve <thermalfoundation : material : 1024>
+[01:27:11] [main/INFO]: [CHAT] ERROR: mekansim.zs:128: Could not resolve <thermalfoundation : material : 1025>
+[01:27:11] [main/INFO]: [CHAT] ERROR: Required parameters missing for Mekanism Metallurgic Infuser Recipe.
+[01:27:11] [main/INFO]: [CHAT] ERROR: Required parameters missing for Mekanism Metallurgic Infuser Recipe.
+[01:27:11] [main/INFO]: [CHAT] ERROR: Required parameters missing for Mekanism Combiner Recipe.
+[01:27:11] [main/INFO]: [CHAT] ERROR: Required parameters missing for Mekanism Combiner Recipe.
+[01:27:11] [main/INFO]: [CHAT] ERROR: Required parameters missing for Mekanism Combiner Recipe.
+[01:27:11] [main/INFO]: [CHAT] ERROR: projecte.zs:118: Could not resolve <thermalfoundation : material : 131>
+[01:27:11] [main/INFO]: [CHAT] ERROR: projecte.zs:120: Could not resolve <thermalfoundation : material : 133>
+[01:27:11] [main/INFO]: [CHAT] ERROR: projecte.zs:120: Could not resolve <thermalfoundation : material : 134>
+[01:27:11] [main/INFO]: [CHAT] ERROR: projecte.zs:122: Could not resolve <thermalfoundation : material : 134>
+[01:27:11] [main/INFO]: [CHAT] ERROR: projecte.zs:122: Could not resolve <thermalfoundation : material : 133>
+[01:27:11] [main/INFO]: [CHAT] ERROR: projecte.zs:122: Could not resolve <thermalfoundation : material : 133>
+[01:27:11] [main/INFO]: [CHAT] ERROR: projecte.zs:122: Could not resolve <thermalfoundation : material : 133>
+[01:27:11] [main/INFO]: [CHAT] ERROR: projecte.zs:122: Could not resolve <thermalfoundation : material : 133>
+[01:27:11] [main/INFO]: [CHAT] ERROR: projecte.zs:124: Could not resolve <thermalfoundation : material : 131>
+[01:27:11] [main/INFO]: [CHAT] ERROR: projecte.zs:126: Could not resolve <thermalfoundation : material : 132>
+[01:27:11] [main/INFO]: [CHAT] ERROR: projecte.zs:126: Could not resolve <thermalfoundation : material : 132>
+[01:27:11] [main/INFO]: [CHAT] ERROR: [crafttweaker]: Error executing {[0:crafttweaker]: projecte.zs}: null
+[01:27:11] [main/INFO]: [CHAT] WARNING: Overwritten Mekanism Crusher Recipe for <appliedenergistics2:material:4>
+[01:27:11] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[01:27:11] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[01:27:11] [Server thread/INFO]: Saving chunks for level 'New World'/The Beneath
+[01:27:11] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[01:27:12] [main/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[01:27:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10113ms behind, skipping 202 tick(s)
+[01:27:14] [Server thread/INFO]: Saving and pausing game...
+[01:27:14] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[01:27:14] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[01:27:14] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[01:27:14] [Server thread/INFO]: Saving chunks for level 'New World'/The Beneath
+[01:27:14] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[01:27:48] [main/INFO]: [CHAT] You do not have permission to use JEI's Cheat Mode.
+[01:27:48] [main/INFO]: [CHAT] Permission is given to players who can /give items or are in Creative Mode.
+[01:27:49] [Server thread/INFO]: Saving and pausing game...
+[01:27:49] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[01:27:49] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[01:27:49] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[01:27:49] [Server thread/INFO]: Saving chunks for level 'New World'/The Beneath
+[01:27:49] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
+[01:27:51] [main/INFO]: Using default channel type
+[01:27:51] [main/INFO]: Started on 25565
+[01:27:51] [main/INFO]: [CHAT] Local game hosted on port 25565
+[01:28:01] [Server thread/INFO]: [Fmohican: Given [Heart Container] * 1 to Fmohican]
+[01:28:01] [main/INFO]: [CHAT] Given [Heart Container] * 1 to Fmohican
+[01:28:03] [Server thread/INFO]: [Fmohican: Given [Heart Container] * 64 to Fmohican]
+[01:28:03] [main/INFO]: [CHAT] Given [Heart Container] * 64 to Fmohican
+[01:28:04] [Server thread/INFO]: [Fmohican: Given [Heart Container] * 64 to Fmohican]
+[01:28:04] [main/INFO]: [CHAT] Given [Heart Container] * 64 to Fmohican
+[01:28:36] [Server thread/INFO]: [Fmohican: Given [Heart Container] * 64 to Fmohican]
+[01:28:36] [main/INFO]: [CHAT] Given [Heart Container] * 64 to Fmohican
+[01:28:36] [Server thread/INFO]: [Fmohican: Given [Heart Container] * 64 to Fmohican]
+[01:28:36] [main/INFO]: [CHAT] Given [Heart Container] * 64 to Fmohican
+[01:28:37] [Server thread/INFO]: [Fmohican: Given [Heart Container] * 64 to Fmohican]
+[01:28:37] [main/INFO]: [CHAT] Given [Heart Container] * 64 to Fmohican
+[01:29:15] [Server thread/INFO]: [Fmohican: Given [Medkit] * 1 to Fmohican]
+[01:29:15] [main/INFO]: [CHAT] Given [Medkit] * 1 to Fmohican
+[01:29:18] [Server thread/INFO]: [Fmohican: Given [Bandages] * 1 to Fmohican]
+[01:29:18] [main/INFO]: [CHAT] Given [Bandages] * 1 to Fmohican
+[01:29:31] [Server thread/INFO]: [Fmohican: Given [Cursed Heart] * 1 to Fmohican]
+[01:29:31] [main/INFO]: [CHAT] Given [Cursed Heart] * 1 to Fmohican
+[01:29:34] [Server thread/INFO]: [Fmohican: Given [Cursed Heart] * 64 to Fmohican]
+[01:29:34] [main/INFO]: [CHAT] Given [Cursed Heart] * 64 to Fmohican
+[01:29:58] [Server thread/INFO]: [Fmohican: Given [Enchanted Heart] * 1 to Fmohican]
+[01:29:58] [main/INFO]: [CHAT] Given [Enchanted Heart] * 1 to Fmohican
+[01:30:11] [main/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[01:30:14] [Server thread/INFO]: [Fmohican: Set own game mode to Creative Mode]
+[01:30:14] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[01:30:46] [Server thread/INFO]: [Fmohican: Set own game mode to Survival Mode]
+[01:30:46] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[01:30:58] [Server thread/INFO]: [Fmohican: Given [Medkit] * 1 to Fmohican]
+[01:30:58] [main/INFO]: [CHAT] Given [Medkit] * 1 to Fmohican
+[01:31:04] [main/INFO]: Loaded 7 advancements
+[01:31:26] [Server thread/INFO]: [Fmohican: Given [Heart Crystal Shard] * 64 to Fmohican]
+[01:31:26] [main/INFO]: [CHAT] Given [Heart Crystal Shard] * 64 to Fmohican
+[01:31:34] [Server thread/INFO]: [Fmohican: Given [Heart Dust] * 64 to Fmohican]
+[01:31:34] [main/INFO]: [CHAT] Given [Heart Dust] * 64 to Fmohican
+[01:31:48] [Server thread/INFO]: [Fmohican: Given [Heart Crystal Ore] * 1 to Fmohican]
+[01:31:48] [main/INFO]: [CHAT] Given [Heart Crystal Ore] * 1 to Fmohican
+[01:31:56] [Server thread/INFO]: [Fmohican: Given [§cSupremium Pickaxe] * 1 to Fmohican]
+[01:31:56] [main/INFO]: [CHAT] Given [§cSupremium Pickaxe] * 1 to Fmohican
+[01:32:18] [main/INFO]: [CHAT] Usage: /time <set|add|query> <value>
+[01:32:23] [Server thread/INFO]: [Fmohican: Set the time to 30000]
+[01:32:23] [main/INFO]: [CHAT] Set the time to 30000
+[01:32:26] [Server thread/INFO]: [Fmohican: Set the time to 20000]
+[01:32:26] [main/INFO]: [CHAT] Set the time to 20000
+[01:32:47] [main/WARN]: Received passengers for unknown entity
+[01:33:16] [Server thread/INFO]: Fmohican lost connection: Disconnected
+[01:33:16] [Server thread/INFO]: Fmohican left the game
+[01:33:16] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[01:33:17] [Server thread/INFO]: Stopping server
+[01:33:17] [Server thread/INFO]: Saving players
+[01:33:17] [Server thread/INFO]: Saving worlds
+[01:33:17] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[01:33:17] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[01:33:17] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[01:33:17] [Server thread/INFO]: Saving chunks for level 'New World'/The Beneath
+[01:33:17] [Server thread/INFO]: Saving chunks for level 'New World'/Storage Cell
